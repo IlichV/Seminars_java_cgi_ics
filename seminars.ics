@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp .:jsoup-1.13.1.jar GenIcs
